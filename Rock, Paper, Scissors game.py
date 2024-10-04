@@ -10,9 +10,9 @@ class RockPaperScissors:
 
         self.choices = ["Rock", "Paper", "Scissors"]
         self.choice_images = {
-            "Rock": r"C:\ALL folder in dexstop\PycharmProjects\1 mont intern python\img\rock.jpeg",
-            "Paper": r"C:\ALL folder in dexstop\PycharmProjects\1 mont intern python\img\paper.jpeg",
-            "Scissors": r"C:\ALL folder in dexstop\PycharmProjects\1 mont intern python\img\scissors.jpeg"
+            "Rock": r"C:\ALL folder in dexstop\PycharmProjects\img\rock.jpeg",
+            "Paper": r"C:\ALL folder in dexstop\PycharmProjects\img\paper.jpeg",
+            "Scissors": r"C:\ALL folder in dexstop\PycharmProjects\img\scissors.jpeg"
         }
 
         self.user_choice = tk.StringVar()
